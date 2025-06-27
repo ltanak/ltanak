@@ -1,17 +1,21 @@
-## Hello! 👋
+# Hello! 👋
 
-### Bit of info 😁
+## Personal 😁
 * Current student at The University of Warwick
-* Internship in 1st Year @ Copper.co (FinTech startup)
-* Incoming Intern @ Marshall Wace (Quantitative Hedge Fund)
-* Started WHACK, The Warwick Hackathon
-* Ex-Academic for UWCS, University of Warwick Computing Society
+* Python, Java, C
+* Dog enjoyer
+* Car encyclopedia
 * Sidequesting into volunteering
-### Current focus 🎓
-* Uni & career
-* {REDACTED}
-* Learning Rust
-* Trading Strategies & Market-Making
+## Past & Present 💼
+* Prev Work Experience @ Mercedes-AMG Petronas Formula One Team (Motorsport Manufacturer)
+* Prev SWE Intern @ Copper.co (FinTech Startup)
+* Current Technology Intern @ Marshall Wace Asset Management (Quantitative Hedge Fund)
+* Started WHACK, The Warwick Hackathon
+* Ex-Academic @ UWCS, University of Warwick Computing Society
+## Working on... 👀
+* Compilers
+* Trading Strategies / Market Making
+* And working towards my goals!
 <!--
 **ltanak/ltanak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
