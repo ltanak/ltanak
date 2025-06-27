@@ -5,13 +5,14 @@
 * Python, Java, C
 * Dog enjoyer
 * Car encyclopedia
-* Sidequesting into volunteering
 ## Past & Present 💼
-* Prev Work Experience @ Mercedes-AMG Petronas Formula One Team (Motorsport Manufacturer)
-* Prev SWE Intern @ Copper.co (FinTech Startup)
 * Current Technology Intern @ Marshall Wace Asset Management (Quantitative Hedge Fund)
+* Prev SWE Intern @ Copper.co (FinTech Startup)
+* Prev Work Experience @ Mercedes-AMG Petronas Formula One Team (Motorsport Manufacturer)
+## Sidequests
 * Started WHACK, The Warwick Hackathon
 * Ex-Academic @ UWCS, University of Warwick Computing Society
+* 4+ hours volunteering each week
 ## Working on... 👀
 * Compilers
 * Trading Strategies / Market Making
