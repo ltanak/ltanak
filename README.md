@@ -14,9 +14,9 @@
 * Ex-Academic @ UWCS, University of Warwick Computing Society
 * 4+ hours volunteering each week
 ## Working on... 👀
-* Compilers
-* Trading Strategies / Market Making
-* And working towards my goals!
+* Compilers (3YP)
+* Trading Strategies
+* Making my family proud!
 <!--
 **ltanak/ltanak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
