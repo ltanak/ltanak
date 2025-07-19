@@ -17,6 +17,10 @@
 * Compilers (3YP)
 * Trading Strategies
 * Making my family proud!
+## Quotes that motivate moi
+* "Take a risk. If you win, you'll be happy. If you lose, you'll be wiser"
+* "There is no love of the present without respect of the past"
+* "Not everday is good, but there is something good in every day"
 <!--
 **ltanak/ltanak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
