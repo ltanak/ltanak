@@ -6,7 +6,7 @@
 * Dog enjoyer
 * Car encyclopedia
 ## Past & Present 💼
-* Current Technology Intern @ Marshall Wace Asset Management (Quantitative Hedge Fund)
+* Prev Technology Intern @ Marshall Wace Asset Management (Quantitative Hedge Fund)
 * Prev SWE Intern @ Copper.co (FinTech Startup)
 * Prev Work Experience @ Mercedes-AMG Petronas Formula One Team (Motorsport Manufacturer)
 ## Sidequests
@@ -14,7 +14,7 @@
 * Ex-Academic @ UWCS, University of Warwick Computing Society
 * 4+ hours volunteering each week
 ## Working on... 👀
-* Compilers (3YP)
+* Lock-free Data Structures (3YP)
 * Trading Strategies
 * Making my family proud!
 ## Quotes that motivate moi
