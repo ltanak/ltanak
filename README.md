@@ -23,7 +23,7 @@
 * "Not everday is good, but there is something good in every day"
 <!--
 **ltanak/ltanak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-# If you're wondering why my GitHub is stale, it's because I have been prioritising university work and internships. But make sure to watch this space...
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
