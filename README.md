@@ -2,7 +2,7 @@
 
 ## Personal 😁
 * Current student at The University of Warwick
-* Python, Java, C
+* Python, Java, C++
 * Dog enjoyer
 * Car encyclopedia
 ## Past & Present 💼
@@ -15,7 +15,7 @@
 * 4+ hours volunteering each week
 ## Working on... 👀
 * Lock-free Data Structures (3YP)
-* Trading Strategies
+* Getting good
 * Making my family proud!
 ## Quotes that motivate moi
 * "Take a risk. If you win, you'll be happy. If you lose, you'll be wiser"
