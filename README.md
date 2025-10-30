@@ -2,20 +2,19 @@
 
 ## Personal 😁
 * Current student at The University of Warwick
-* Python, Java, C++
+* Python, C++, C#, Java
 * Dog enjoyer
 * Car encyclopedia
 ## Past & Present 💼
 * Prev Technology Intern @ Marshall Wace Asset Management (Quantitative Hedge Fund)
 * Prev SWE Intern @ Copper.co (FinTech Startup)
 * Prev Work Experience @ Mercedes-AMG Petronas Formula One Team (Motorsport Manufacturer)
-## Sidequests
-* Started WHACK, The Warwick Hackathon
+## Sidequests 🧭
+* Started WHACK, [The Warwick Hackathon](https://warwickhack.co.uk/)
 * Ex-Academic @ UWCS, University of Warwick Computing Society
 * 4+ hours volunteering each week
 ## Working on... 👀
 * Lock-free Data Structures (3YP)
-* Getting good
 * Making my family proud!
 ## Quotes that motivate moi
 * "Take a risk. If you win, you'll be happy. If you lose, you'll be wiser"
