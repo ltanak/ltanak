@@ -2,9 +2,10 @@
 
 ## Personal 😁
 * Current student at The University of Warwick
-* Python, C++, C#, Java, Rust (soon), Golang (soon)
+* Python, C++, C#, Scala, Java, Rust (soon), Golang (soon)
 * Dog enjoyer
 * Car encyclopedia
+* Gym goer
 ## Past & Present 💼
 * **Incoming Quantitative Technology Intern @ Qube Research & Technologies (Systematic Hedge Fund)**
 * Prev Technology Intern @ Marshall Wace Asset Management (Quantitative Hedge Fund)
@@ -24,15 +25,7 @@
 
 If you're wondering why my GitHub is stale, it's because I have been prioritising university work and internships. But make sure to watch this space...
 <!--
-**ltanak/ltanak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+to add eventually to this readme:
+- use the fancy stuff that yaboy edumnd uses
+- find other cool readmes that i can yoink stuff from
 -->
