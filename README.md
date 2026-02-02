@@ -14,6 +14,8 @@
 ## Sidequests 🧭
 * Started WHACK, [The Warwick Hackathon](https://warwickhack.co.uk/)
 * Ex-Academic @ UWCS, [University of Warwick Computing Society](https://uwcs.co.uk/)
+* HRT ICHack 2026 Winner
+* AstonHack9 2024 Best Hack
 * 4+ hours volunteering each week
 ## Working on... 👀
 * Lock-free Data Structures (3YP)
