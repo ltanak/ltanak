@@ -17,15 +17,17 @@
 * HRT ICHack 2026 Winner
 * AstonHack9 2024 Best Hack
 * 4+ hours volunteering each week
+* Cheeky side hustles too...
 ## Working on... 👀
 * Lock-free Data Structures (3YP)
+* Opt-in trading strategy system
 * Making my family proud!
 ## Quotes that motivate moi 💡
 * "Take a risk. If you win, you'll be happy. If you lose, you'll be wiser"
 * "There is no love of the present without respect of the past"
 * "Not everday is good, but there is something good in every day"
 
-If you're wondering why my GitHub is stale, it's because I have been prioritising university work and internships. But make sure to watch this space...
+Make sure to watch this space...
 <!--
 to add eventually to this readme:
 - use the fancy stuff that yaboy edumnd uses
