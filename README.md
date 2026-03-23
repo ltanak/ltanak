@@ -2,7 +2,7 @@
 
 ## Personal 😁
 * Current student at The University of Warwick
-* Python, C++, C#, Scala, Java, Rust (soon), Golang (soon)
+* Python, C++, C#, Scala, Java
 * Dog enjoyer
 * Car encyclopedia
 * Gym goer
