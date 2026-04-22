@@ -19,17 +19,12 @@
 * 4+ hours volunteering each week
 * Cheeky side hustles too...
 ## Working on... 👀
-* Lock-free Data Structures (3YP)
 * Opt-in trading strategy system
+* Deploying things
 * Making my family proud!
 ## Quotes that motivate moi 💡
 * "Take a risk. If you win, you'll be happy. If you lose, you'll be wiser"
 * "There is no love of the present without respect of the past"
 * "Not everday is good, but there is something good in every day"
 
-Make sure to watch this space...
-<!--
-to add eventually to this readme:
-- use the fancy stuff that yaboy edumnd uses
-- find other cool readmes that i can yoink stuff from
--->
+I sidequest a lot, in and out of CS. So keep your eyes peeled for some secret changes...
