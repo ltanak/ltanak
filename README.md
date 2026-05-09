@@ -1,13 +1,14 @@
 # Hello! 👋
 
 ## Personal 😁
-* Current student at The University of Warwick
-* Python, C++, C#, Scala, Java
+* SWE @ QRT
+* CS @ Warwick (Placement Year)
+* C++, Python, C#
 * Dog enjoyer
 * Car encyclopedia
 * Gym goer
 ## Past & Present 💼
-* **Incoming Quantitative Technology Intern @ Qube Research & Technologies (Systematic Hedge Fund)**
+* **Quantitative Technology Intern @ Qube Research & Technologies (Systematic Hedge Fund)**
 * Prev Technology Intern @ Marshall Wace Asset Management (Quantitative Hedge Fund)
 * Prev SWE Intern @ Copper.co (FinTech Startup)
 * Prev Work Experience @ Mercedes-AMG Petronas Formula One Team (Motorsport Manufacturer)
