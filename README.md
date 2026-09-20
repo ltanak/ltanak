@@ -20,8 +20,7 @@
 * 4+ hours volunteering each week
 * Cheeky side hustles too...
 ## Working on... 👀
-* Opt-in trading strategy system
-* Deploying things
+* Something I truly believe in
 * Making my family proud!
 ## Quotes that motivate moi 💡
 * "Take a risk. If you win, you'll be happy. If you lose, you'll be wiser"
